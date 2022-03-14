@@ -1,0 +1,50 @@
+html{
+  text-align: center;
+  font-size: 1.6rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: springgreen;
+}
+
+h1{
+  color:rgb(35, 236, 123);
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h3{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: violet;
+  background-color: whitesmoke;
+}
+
+
+#one{
+  border: 5px solid lightseagreen;
+  background-color: lightskyblue;
+  color: blue;
+  margin-bottom: 10px;
+}
+
+
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: lower-greek;
+  color: yellow;
+  background-color: turquoise;
+}
+
+nav img{
+  height: 50px;
+  width: 50px;
+}
+
+.clock-one {
+  display: flex;
+  flex-direction: column;
+  color: black;
+  font-size: 1.7rem;
+  font-family: 'Roboto Condensed', sans-serif;
+  letter-spacing: 5px;
+
+}
